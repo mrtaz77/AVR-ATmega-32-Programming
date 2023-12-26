@@ -2,6 +2,7 @@
 .lh/
 .vs/
 .vscode/
+Project Backups/
 *.atsln
 *.cproj
 *.xml
@@ -11,6 +12,7 @@
 *.lss
 Makefile
 *.mk
+*.pdsprj
 
 # Prerequisites
 *.d
