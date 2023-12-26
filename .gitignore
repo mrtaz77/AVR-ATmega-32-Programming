@@ -12,7 +12,7 @@ Project Backups/
 *.lss
 Makefile
 *.mk
-*.pdsprj
+*.workspace
 
 # Prerequisites
 *.d
