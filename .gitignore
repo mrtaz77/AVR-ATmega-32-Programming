@@ -1,3 +1,17 @@
+# Added
+.lh/
+.vs/
+.vscode/
+*.atsln
+*.cproj
+*.xml
+*.elf
+*.eep
+*.map
+*.lss
+Makefile
+*.mk
+
 # Prerequisites
 *.d
 
@@ -30,3 +44,4 @@
 *.exe
 *.out
 *.app
+
