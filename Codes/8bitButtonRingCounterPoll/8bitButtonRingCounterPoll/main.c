@@ -17,11 +17,11 @@ int main(void)
     while (1) 
     {
 		input = PIND;
-		if(input & (0x1<<2)){
+		if(!(input & (0x1<<2))){
 			if(counter == 0x80) counter = 1;
 			else counter = counter << 1;
 			PORTA = counter;
-			while(input & (0x1<<2)){
+			while(!(input & (0x1<<2))){
 				input = PIND;
 			}
 		}
