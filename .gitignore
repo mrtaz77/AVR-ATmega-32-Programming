@@ -13,6 +13,7 @@ Project Backups/
 Makefile
 *.mk
 *.workspace
+*.cppproj
 
 # Prerequisites
 *.d
