@@ -5,7 +5,7 @@ Codes for ATmega32
 - [Practices](#practice)
 
 ## Tools
-1. Atmel Studio 7.0 . Download [link] (https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus)
+1. Atmel Studio 7.0 . Download [link](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus)
 2. Proteus Version 8.15. Download [link](https://engineeringsoftware.net/electronics/proteus-8-15-full-crack/).
 
 ## Experiments 
