@@ -73,6 +73,7 @@ unsigned char pattern_A[SIZE] = {
 };
 ```
 where SIZE is the macro for array dimension
+4. Click on `Build` to build the new solution and use the updated .hex file.
 
 ## How to display your desired animation
 1. Open the [main](/Codes/Exp%202_DisplayV/Display%20V/Display%20V/main.c) using Atmel Studio 7.
@@ -118,3 +119,4 @@ int main(void)
 	}
 }
 ```
+5. Click on `Build` menu to build the new solution and use the updated .hex file.
