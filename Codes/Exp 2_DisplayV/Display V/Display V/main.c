@@ -36,11 +36,11 @@ void drawPattern_V(){
 	}
 }
 
-void slidingRight() {
+void slidingLeft() {
 	for(int i=0; i<SIZE; i++)pattern_V[i] = ((pattern_V[i] & 0x80) >> 7) | (pattern_V[i] << 1);
 }
 
-void slidingLeft() {
+void slidingRight() {
 	for(int i=0; i<SIZE; i++)pattern_V[i] = ((pattern_V[i] & 0x1) << 7) | (pattern_V[i] >> 1);
 }
 
