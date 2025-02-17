@@ -1,5 +1,5 @@
 # 8 x 8 bicolor LED matrix Simulation
-This project displays the pattern V. Also some variations are also available.
+This project displays the pattern V. Also some variations are available.
 - [Pin Connections](#pin-connections)
 - [How to display your own pattern](#how-to-display-your-own-pattern)
 - [How to display your desired animation](#how-to-display-your-desired-animation)
@@ -72,7 +72,7 @@ unsigned char pattern_A[SIZE] = {
 	0b10000010
 };
 ```
-where SIZE is the macro for array dimension
+where SIZE is the macro for array dimension.\
 4. Click on `Build` to build the new solution and use the updated .hex file.
 
 ## How to display your desired animation
